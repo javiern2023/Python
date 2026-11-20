@@ -1,0 +1,3 @@
+class PasswordInvalidaError(Exception):
+
+    pass

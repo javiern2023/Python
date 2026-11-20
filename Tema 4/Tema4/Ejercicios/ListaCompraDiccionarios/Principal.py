@@ -1,3 +1,13 @@
+'''
+strip()	Elimina espacios al principio y al final.
+.lstrip()	Elimina espacios solamente por la izquierda.
+.rstrip()	Elimina espacios solamente por la derecha.
+.lower()	Convierte el texto a minúsculas.
+.upper()	Convierte el texto a mayúsculas.
+.capitalize()	Pone la primera letra en mayúscula.
+.title()	Pone la primera letra de cada palabra en mayúscula.
+'''
+
 #1. AÑADIR PRODUCTO
 
 def añadir_producto(compra):
