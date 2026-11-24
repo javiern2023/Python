@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "Minecraft",
+    "plataforma": "PC",
+    "anio": 2011,
+    "precio": 24.99
+  },
+  {
+    "id": 2,
+    "titulo": "Animal Crossing",
+    "plataforma": "Nintendo Switch",
+    "anio": 2020,
+    "precio": 49.99
+  },
+  {
+    "id": 3,
+    "titulo": "The Last of Us",
+    "plataforma": "PlayStation",
+    "anio": 2013,
+    "precio": 39.99
+  }
+]
