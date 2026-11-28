@@ -1,0 +1,5 @@
+
+Flask
+PySide6
+requests
+mysql-connector-python

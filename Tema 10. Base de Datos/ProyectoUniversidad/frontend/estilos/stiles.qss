@@ -1,0 +1,153 @@
+
+QMainWindow {
+    background-color: #f4f6fb;
+}
+
+#sidebar {
+    background-color: #172554;
+}
+
+#logo {
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+#tituloMenu {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#textoMenu {
+    color: #cbd5e1;
+    font-size: 12px;
+}
+
+#botonMenu {
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 13px;
+    text-align: left;
+    font-size: 13px;
+}
+
+#botonMenu:disabled {
+    background-color: #263b70;
+    color: white;
+}
+
+#pieMenu {
+    color: #94a3b8;
+    font-size: 11px;
+}
+
+#tituloPrincipal {
+    color: #172554;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+#subtitulo {
+    color: #64748b;
+    font-size: 13px;
+}
+
+#tarjeta {
+    background-color: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+#etiquetaTarjeta {
+    color: #64748b;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+#numeroTarjeta {
+    color: #2563eb;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#tituloSeccion {
+    color: #172554;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+QLineEdit {
+    background-color: #f8fafc;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    padding: 10px;
+    color: #1e293b;
+}
+
+QLineEdit:focus {
+    border: 1px solid #2563eb;
+}
+
+QPushButton {
+    border-radius: 6px;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+#botonGuardar {
+    background-color: #2563eb;
+    color: white;
+}
+
+#botonGuardar:hover {
+    background-color: #1d4ed8;
+}
+
+#botonModificar {
+    background-color: #0f766e;
+    color: white;
+}
+
+#botonModificar:hover {
+    background-color: #115e59;
+}
+
+#botonEliminar {
+    background-color: #dc2626;
+    color: white;
+}
+
+#botonEliminar:hover {
+    background-color: #b91c1c;
+}
+
+#botonLimpiar {
+    background-color: #e2e8f0;
+    color: #334155;
+}
+
+#botonActualizar {
+    background-color: #172554;
+    color: white;
+}
+
+QTableWidget {
+    background-color: white;
+    alternate-background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    gridline-color: #e2e8f0;
+    selection-background-color: #dbeafe;
+    selection-color: #172554;
+}
+
+QHeaderView::section {
+    background-color: #eaf0fb;
+    color: #172554;
+    padding: 12px;
+    border: none;
+    font-weight: bold;
+}
